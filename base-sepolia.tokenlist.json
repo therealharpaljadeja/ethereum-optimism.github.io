@@ -19,7 +19,8 @@
       "website": "https://www.circle.com/en/usdc",
       "twitter": "@circlepay",
       "nobridge": true,
-      "address": "0x036CbD53842c5426634e7929541eC2318f3dCF7e"
+      "address": "0x036CbD53842c5426634e7929541eC2318f3dCF7e",
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=032"
     }
   ]
 }
